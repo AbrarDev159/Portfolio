@@ -27,6 +27,6 @@ jobs:
       - name: Deploy to another branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PORTFOLIO_TOKEN }}
           publish_dir: ./dist  # Replace with your distribution folder path
           publish_branch: gh-pages  # Replace with your target branch name
