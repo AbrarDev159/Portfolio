@@ -14,5 +14,13 @@
         "description": "A todo website where you can create tasks and collections, mark as done/undone, update and delete.",
         "github": "https://github.com/AbrarDev159/Todo",
         "website": "https://zealous-sky-0f540750f.3.azurestaticapps.net/"
+    },
+    {
+        "id": 3,
+        "name": "Notes",
+        "technology": "Html, CSS, Bootstrap, Javascript, Typescript, Vue, Prisma, Rust, Tauri",
+        "description": "A notes desktop app.",
+        "github": "https://github.com/AbrarDev159/Notes",
+        "website": ""
     }
 ]
